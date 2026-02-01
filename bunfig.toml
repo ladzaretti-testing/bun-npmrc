@@ -1,2 +1,2 @@
 [install.scopes]
-"fakescope" = { url = "https://this-should-not-be-used.example" }
+"@fakescope" = "https://this-should-not-be-used.example"
