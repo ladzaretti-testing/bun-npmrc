@@ -1,2 +1,2 @@
 [install.scopes]
-"fakescope" = "https://fake.registry.example"
+"fakescope" = "https://fake.registry.example/"
